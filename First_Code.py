@@ -1,4 +1,4 @@
 
 
 print ("Hello World!!")
-print ("Good Moring!!")
+print ("Good Morning!!")
